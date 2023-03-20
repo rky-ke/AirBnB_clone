@@ -1,0 +1,19 @@
+/* Footer CSS */
+footer {
+	background-color:white;
+	height: 60px;
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+	text-align: center;
+	border-top: 1px solid #cccccc;
+	
+}
+
+footer p {
+	color: #000000;
+	line-height: 60px;
+	margin: 0%;
+	
+
+}
