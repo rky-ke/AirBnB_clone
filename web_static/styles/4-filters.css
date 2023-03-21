@@ -24,17 +24,3 @@ section.filters button {
 section.filters button:hover {
     opacity: 90%;
   }
-
-section.filters input {
-    font-size: 18px;
-    border: none;
-    border-radius: 4px;
-    background-color: inherit;
-    color: black;
-    height: 48px;
-    width: 80%;
-    margin-right: 30px;
-    opacity: 1;
-    text-align: center;
-
-  }
